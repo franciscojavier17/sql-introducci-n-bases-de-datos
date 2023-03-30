@@ -1,3 +1,3 @@
 # Desafio Introducción a bases de datos - SQL
 
--[• Mi video]()
+-[• Mi video](https://youtu.be/JwZT9qxn4I8)
